@@ -4,31 +4,29 @@ WP Student Result System
 
 A lightweight and powerful WordPress plugin for managing and displaying student results with roll number search, session & class filters, and CSV import/export functionality.
 
-🚀 Features
+** Features**
 
-🔍 Front-end Result Search
+ Front-end Result Search
 Students/parents can search results using:
 
 Roll Number
-
 Session
-
 Class
 
-🛠️ Admin Management Panel
+Admin Management Panel
 Add, edit, delete, and manage student results directly from the WordPress admin.
 
-📁 CSV Import/Export
+CSV Import/Export
 Bulk upload results via CSV
 Export results for backup or offline use
 
-🧩 Shortcode Integration
+Shortcode Integration
 Display the result search form anywhere on the site using a simple shortcode.
 
-💡 Lightweight & Theme Compatible
+Lightweight & Theme Compatible
 Works with any WordPress theme without extra setup.
 
-📦 Installation
+Installation
 
 Download or clone the repository.
 
@@ -41,7 +39,7 @@ Activate the plugin from the WordPress Admin → Plugins section.
 
 Go to Student Results in the admin menu to manage entries.
 
-🧩 Shortcode Usage
+Shortcode Usage
 
 Place this shortcode inside any page or post:
 
@@ -54,7 +52,7 @@ This displays:
 ✔ Roll Number Search Field
 ✔ Result Output
 
-📁 CSV Format
+CSV Format
 
 Your CSV file must include the following columns:
 
@@ -66,7 +64,7 @@ Admin → Student Results → Import CSV
 
 Export CSV anytime.
 
-🧪 Compatibility
+Compatibility
 
 Requires at least: WordPress 5.6
 
@@ -96,4 +94,4 @@ This plugin is free and open-source software licensed under the GPLv2 or later l
 📣 Support
 
 If you face any issues or want customizations, feel free to contact:
-📩 support@adorablesolution.com
+info@adorablesolution.com
